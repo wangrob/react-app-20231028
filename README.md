@@ -1,1 +1,3 @@
-# react-app-20231028
+# Home Listing demo app with AWS Amplify
+
+This app showcases the recent features of AWS Amplify.
